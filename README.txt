@@ -33,7 +33,7 @@ aj@lkn.io | @ajlkn
 
 Credits:
 
-	Demo Images:
+	Demo Images: 
 		Unsplash (unsplash.com)
 
 	Icons:
