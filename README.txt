@@ -11,7 +11,7 @@ and an assortment of pre-styled elements. So, pretty much what you were expectin
 
 - It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
   stopgaps (like CSS grid systems).
-
+    
 - It uses Sass* a lot more intelligently, thanks in part to several new mixins
   and functions I've been working on (as well as a few by @HugoGiraudel).
 
