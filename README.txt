@@ -10,7 +10,7 @@ and an assortment of pre-styled elements. So, pretty much what you were expectin
 - It's built with components from my Responsive Tools project.
 
 - It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
+  stopgaps (like CSS grid systems).kk
     
 - It uses Sass* a lot more intelligently, thanks in part to several new mixins
   and functions I've been working on (as well as a few by @HugoGiraudel).
